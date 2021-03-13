@@ -16,8 +16,9 @@ Create a TODO list application that allows users to add and delete tasks.
 
 ## 💡 Tips to finish this project
 
-Do not go straight to the code, think first and have a viable trategy.
+Do not go straight to the code, think first and have a viable strategy.
 
 - What components will you create? Draw the project on a white paper and identify components.
 - Where are the stasks going to be stored in your component?
 - Read about [controlled components inputs in react.js](https://www.youtube.com/watch?v=A6YxkyR_T8c), you will need to understand the concept.
+![Misspelling proposal](https://user-images.githubusercontent.com/50857552/111016621-9ab61000-8374-11eb-8667-ccf99e1f7c34.png)
